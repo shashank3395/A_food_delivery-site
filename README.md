@@ -1,4 +1,8 @@
 # A_food_delivery-site
+
+the link to site is :shashanksharma7874.000webhostapp.com
+
+
 This is an online platform on which you can order the diff food items available....
 
 The Portal name is "Bakery" which provides an oppurtunity for individual visiting it to order diff food items available:
@@ -20,6 +24,6 @@ Salient features of this website are:
   * he can mark them delevered from its side
   
 * the payment option is currently not open 
-the link to site is :shashanksharma7874.000webhostapp.com
+
     
 
